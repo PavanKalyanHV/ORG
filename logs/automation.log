@@ -1,0 +1,42 @@
+2024-12-12 21:36:24 INFO  Utils:112 - [TestNG] Running:
+  D:\Users\Pavankalyanhv\ORG\testng.xml
+
+2024-12-12 21:36:31 INFO  TC03_LoginDDT:94 - // Launch Application......
+2024-12-12 21:36:39 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 21:36:39 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 21:37:00 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 21:37:00 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 21:37:20 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 21:37:20 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 21:37:40 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 21:37:40 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 21:38:01 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 21:38:01 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 21:38:21 INFO  TC03_LoginDDT:101 - Browser Closed
+2024-12-12 21:40:20 INFO  Utils:112 - [TestNG] Running:
+  D:\Users\Pavankalyanhv\ORG\testng.xml
+
+2024-12-12 23:23:42 INFO  TC03_LoginDDT:94 - // Launch Application......
+2024-12-12 23:23:50 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 23:23:50 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 23:23:50 INFO  TC03_LoginDDT:22 - Enter Password
+2024-12-12 23:23:51 INFO  TC03_LoginDDT:24 - Click login button
+2024-12-12 23:23:53 INFO  TC03_LoginDDT:29 - Valid Credentials
+2024-12-12 23:23:53 INFO  TC03_LoginDDT:31 - valid = true
+2024-12-12 23:23:55 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 23:23:55 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 23:23:56 INFO  TC03_LoginDDT:22 - Enter Password
+2024-12-12 23:23:56 INFO  TC03_LoginDDT:24 - Click login button
+2024-12-12 23:24:18 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 23:24:18 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 23:24:18 INFO  TC03_LoginDDT:22 - Enter Password
+2024-12-12 23:24:18 INFO  TC03_LoginDDT:24 - Click login button
+2024-12-12 23:24:40 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 23:24:40 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 23:24:41 INFO  TC03_LoginDDT:22 - Enter Password
+2024-12-12 23:24:41 INFO  TC03_LoginDDT:24 - Click login button
+2024-12-12 23:25:03 INFO  TC03_LoginDDT:16 - *****Starting the test Case TC03_LoginPageTestDDT *****
+2024-12-12 23:25:03 INFO  TC03_LoginDDT:20 - Enter User Name
+2024-12-12 23:25:03 INFO  TC03_LoginDDT:22 - Enter Password
+2024-12-12 23:25:03 INFO  TC03_LoginDDT:24 - Click login button
+2024-12-12 23:25:26 INFO  TC03_LoginDDT:101 - Browser Closed

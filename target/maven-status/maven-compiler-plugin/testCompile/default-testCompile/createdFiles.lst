@@ -1,0 +1,10 @@
+testCases\TC02_ResetPasswordTest.class
+utilities\ExcelUtilities.class
+pageObjectClass\AdminPage.class
+pageObjectClass\LoginPage.class
+utilities\ReportManager.class
+utilities\DataProviders.class
+testBase\BaseClass.class
+testCases\TC03_LoginDDT.class
+testCases\TC01_LoginPageTest.class
+pageObjectClass\BasePage.class
